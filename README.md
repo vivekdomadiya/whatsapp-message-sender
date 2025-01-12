@@ -1,4 +1,4 @@
-#WhatsApp-Message-Sender
+#whatsapp-message-sender
 
 ## Overview
 

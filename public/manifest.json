@@ -19,7 +19,7 @@
       "type": "image/png"
     }
   ],
-  "start_url": "/WhatsApp-Message-Sender",
+  "start_url": "/whatsapp-message-sender",
   "background_color": "#ffffff",
   "theme_color": "#000000",
   "display": "standalone"
