@@ -1,26 +1,33 @@
 {
   "short_name": "WPSender",
   "name": "WhatsApp Message Sender",
+  "description": "Send WhatsApp messages easily.",
   "icons": [
     {
-      "src": "img/whatsapp_512x512.png",
+      "src": "img/whatsapp_512.png",
       "sizes": "512x512",
       "type": "image/png"
     },
     {
-      "src": "img/whatsapp_192x192.png",
-      "sizes": "192x192",
+      "src": "img/whatsapp_128.png",
+      "sizes": "128x128",
       "type": "image/png",
       "purpose": "maskable"
     },
     {
+      "src": "img/whatsapp_32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
       "src": "img/whatsapp.png",
-      "sizes": "48x48",
+      "sizes": "24x24",
       "type": "image/png"
     }
   ],
   "start_url": "/whatsapp-message-sender",
-  "background_color": "#272727",
-  "theme_color": "rgb(18, 18, 18)",
-  "display": "standalone"
+  "background_color": "#ffffff",
+  "theme_color": "#607d8b",
+  "display": "standalone",
+  "orientation": "portrait"
 }

@@ -7,7 +7,7 @@ function Header({ toggleTheme, theme }) {
     <Box sx={{ flexGrow: 1 }}>
       <AppBar position="static" color="primary">
         <Toolbar>
-          <img src="img/whatsapp.png" alt="WP" style={{ marginRight: 10 }} />
+          <img src={`${process.env.PUBLIC_URL}/img/whatsapp_32.png`} alt="WP" style={{ marginRight: 10 }} />
           <Typography variant="h6" sx={{ flexGrow: 1 }}>
             WhatsApp Message Sender
           </Typography>
